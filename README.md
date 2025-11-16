@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Harshad — Aspiring Data Analyst
+# Hi, I'm Harshad — Aspiring Data Analyst
 
 I am a detail-oriented and motivated **Data Analyst Fresher** with hands-on experience in  
 **Excel, SQL, Power BI, Tableau, Python (basic)** and real-world capstone projects.  
