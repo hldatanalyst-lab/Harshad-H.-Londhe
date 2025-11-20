@@ -37,7 +37,7 @@ Dashboards, data cleaning, pivot tables
 🔗 *Repo:* [[Link to Excel Repo]](https://github.com/hldatanalyst-lab/Excel-dashboard)
 
 ### **SQL Assignments**
-24-query assignment + modules + practice  
+Query assignment + modules + practice  
 🔗 *Repo:* [[Link to SQL Repo]](https://github.com/hldatanalyst-lab/SQL-Assigments)
 
 ### **Power BI Dashboards**
