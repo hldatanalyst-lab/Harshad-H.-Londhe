@@ -1,9 +1,6 @@
-# Hi, I'm Harshad — Aspiring Data Analyst
+# Hi, I'm Harshad — Business Analyst
 
-I am a detail-oriented and motivated **Data Analyst Fresher** with hands-on experience in  
-**Excel, SQL, Power BI, Tableau, Python (basic)** and real-world capstone projects.  
-I enjoy turning raw data into clean, meaningful insights and dashboards.
-
+I’m a Business Analyst in the Financial Services / FinTech domain with a strong data analytics background. I work with SQL, PostgreSQL, Excel, Power BI, Tableau, and Python (Basics) to clean data, build KPI dashboards, automate reports, and generate actionable business insights.
 ---
 
 ## Skills & Tools
